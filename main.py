@@ -4,9 +4,9 @@ app = FastAPI()
 
 @app.get("/")
 async def root():
-    return {"Bom Dia :)
+    return {"Bom Dia!!!
 
-Projeto CI/CD PB JUN - 2025!
+Projeto CI/CD PB JUN - 2025
 
 Felipe Moneda Gilioli
 "}
